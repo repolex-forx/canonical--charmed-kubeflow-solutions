@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "charmed-kubeflow-solutions",
+  "versions": [
+    {
+      "commit": "099687b7d2173226b4088551ae30ab0ab0540b12",
+      "tag": "",
+      "parsed_at": "2026-11-08T16:05:16.972855+00:00"
+    }
+  ]
+}
